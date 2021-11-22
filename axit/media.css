@@ -1,0 +1,275 @@
+@media (max-width:1200px) {
+    .container {
+        max-width: 970px;
+    }
+
+    .social-media__icon img {
+        width: 100%;
+    }
+
+    .feautures__town-img {
+        display: none;
+    }
+
+    .our-process__item {
+        width: 100%;
+    }
+
+    .pricing {
+        display: none;
+    }
+    .message__item {
+        margin-left: 15px;
+        margin-right: 0;
+    }
+
+    .message__item-text {
+        width: 100%;
+    }
+
+    .form__input-contact {
+        width: 350px;
+    }
+    
+    .form__input-text {
+        width: 350px;
+    }
+}
+
+@media (max-width:992px) {
+    .container {
+        max-width: 750px;
+    }
+
+    .header__inner {
+        flex-wrap: wrap;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .axit__block {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        
+    }
+
+    .axit__block-title {
+        font-size: 28px;
+        
+    }
+
+    .axit__block-subtitle {
+        width: 100%;
+    }
+
+    .form {
+        width: 270px;
+        height: 270px;
+    }
+
+    .form__button {
+        width: 270px;
+    }
+
+    .form__title {
+        font-size: 15px;
+    }
+
+    .form__input {
+        width: 200px;
+        margin-top: 0;
+        padding-top: 10px;
+    }
+
+    .form__button {
+        margin-top: 25px;
+    }
+
+    .social-icons__inner {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .social-media__text {
+        display: flex;
+        align-items: center;
+        flex-direction: column;   
+    }
+
+    .axit__block button {
+        margin-bottom: 35px
+    }
+
+    .social-media__icon {
+        display: none;
+    }
+    
+    .feautures__item-subtitle {
+        width: 500px;
+    }
+
+    .our-process {
+        padding: 40px 0;
+    }
+    .our-process__row {
+        flex-wrap: wrap;
+    }
+
+    .our-process__item {
+        flex: 0 1 100%;
+        margin: 0 auto;
+        padding-bottom: 45px;
+        
+    }
+    .our-process__item-subtitle {
+        width: 350px;
+    }
+
+    .our-process__item:last-child {
+        padding-bottom: 0;
+    }
+
+    .message {
+        flex-wrap: wrap;
+        
+    }
+
+    .message__item {
+        flex: 0 1 100%;
+        margin-bottom: 50px;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .form__input-contact {
+        width: 320px;
+    }
+    
+    .form__input-text {
+        width: 320px;
+    }
+}
+
+@media(max-width:767px) {
+    .container {
+        max-width: none;
+    }
+
+    .navigation__inner img {
+        margin-left: 15px;
+    }
+    
+    .axit__block-title {
+        width: 100%;
+        height: 100%;
+        font-size: 20px;
+        line-height: 20px;
+    }
+
+    .block__heading-title {
+        font-size: 30px;
+    }
+
+    .axit__block {
+        padding: 0 15px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+    }
+
+    .social-icons__inner {
+        padding: 0 15px 15px 15px;
+    }
+
+    .axit__block-subtitle {
+        width: 100%;
+        font-size: 13px;
+    }
+
+    .social-media__text-subtitle {
+        width: 100%;
+        
+    }
+
+    .tab {
+        width: 70px;
+        height: 72px;
+    }
+    
+    .contact__items {
+        flex-wrap: wrap;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .form__input-text {
+        margin-bottom: 45px;
+    }
+
+    .feautures__item-title{
+        width: 100%;
+    }
+    .feautures__item-subtitle {
+        width: 100%;
+    }
+
+    .footer__item-value  {
+        width: 100%;
+    }
+
+    .feautures__inner {
+        padding: 0 15px;
+    }
+
+    .tabs__item {
+        margin-right:  25px;
+    }
+
+    .form__input-contact {
+        width: 100%;
+    }
+
+    .block__heading {
+        padding: 0 15px;
+        text-align: center;
+    }
+
+    .stylish__item {
+        padding: 0 15px;
+        text-align: center;
+    }
+
+    .our-process__item-subtitle {
+        width: 100%;
+    }
+
+    .message__item{
+        margin-left: 0;
+    }
+
+    .footer__item {
+        padding: 0 15px;
+        text-align: center;
+    }
+
+    .our-process__row {
+        padding: 0 15px;
+    }
+
+    .form__input-text {
+        width: 100%;
+    }
+    .nav {
+        display: none;
+    }
+    .burger {
+        display: block;
+        margin-right: 15px;
+    }    
+}
+
